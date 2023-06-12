@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+/* App.css */
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+/* RegistrationForm.css */
+.registration-form {
+  text-align: center;
+}
+
+/* LoginForm.css */
+.login-form {
+  text-align: center;
+}
+
+/* CognitiveAssessmentForm.css */
+.cognitive-assessment-form {
+  text-align: center;
+}
+
+/* GameRecommendation.css */
+.game-recommendation {
+  text-align: center;
+}
+
+/* ProgressTracker.css */
+.progress-tracker {
+  text-align: center;
+}
+
+/* Styling for buttons */
+button {
+  padding: 8px 16px;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0d8de8;
+}
+
+/* Additional custom styles based on your design requirements */
+
